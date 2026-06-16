@@ -60,7 +60,7 @@ Build them in that order. Copy written without a defined tone sounds like everyo
 
 - [`brand-identity`](brand-identity) — create a visual + verbal identity without a designer, derived from what the brand stands for
 - [`tone-of-voice`](tone-of-voice) — define how the product talks, and keep it sounding like itself across every surface
-- `product-copy` — write the words that convert: landing page, onboarding, microcopy _(in progress)_
+- [`product-copy`](product-copy) — write the words that convert: landing page, onboarding, microcopy
 
 ---
 
@@ -70,7 +70,7 @@ Build them in that order. Copy written without a defined tone sounds like everyo
 |---|---|
 | Brand identity | ✅ Skill available in [`brand-identity`](brand-identity) |
 | Tone of voice | ✅ Skill available in [`tone-of-voice`](tone-of-voice) |
-| Product copy | 🔄 In progress |
+| Product copy | ✅ Skill available in [`product-copy`](product-copy) |
 
 ---
 
