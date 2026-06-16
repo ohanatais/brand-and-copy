@@ -56,7 +56,11 @@ Your **brand identity** sets the visual container. Your **tone of voice** sets t
 
 Build them in that order. Copy written without a defined tone sounds like everyone else. A tone defined without a brand identity has nothing to anchor to.
 
-**Claude Code skills** for each stage live in [pm-skills](https://github.com/ohanatais/pm-skills). Install them in your project to generate brand briefs, tone guides, and copy frameworks directly inside Claude Code.
+**Claude Code skills** for each stage live directly in this repo — one folder per topic, each with its own `SKILL.md`, `references/`, and `README.md`. Install them in your project to use these frameworks directly inside Claude Code.
+
+- [`brand-identity`](brand-identity) — create a visual + verbal identity without a designer, derived from what the brand stands for
+- `tone-of-voice` — define how the product talks, and keep it sounding like itself _(in progress)_
+- `product-copy` — write the words that convert: landing page, onboarding, microcopy _(planned)_
 
 ---
 
@@ -64,8 +68,8 @@ Build them in that order. Copy written without a defined tone sounds like everyo
 
 | Content | Status |
 |---|---|
-| Brand identity | 📋 Planned |
-| Tone of voice | 📋 Planned |
+| Brand identity | ✅ Skill available in [`brand-identity`](brand-identity) |
+| Tone of voice | 🔄 In progress |
 | Product copy | 📋 Planned |
 
 ---
@@ -79,7 +83,7 @@ Build them in that order. Copy written without a defined tone sounds like everyo
 | **brand-and-copy** | You are here |
 | [build-with-claude](https://github.com/ohanatais/build-with-claude) | Technical guide for non-technical builders |
 | [go-to-market](https://github.com/ohanatais/go-to-market) | Launch strategy, first users |
-| [pm-skills](https://github.com/ohanatais/pm-skills) | Claude Code skills · PT-BR |
+| [pm-skills](https://github.com/ohanatais/pm-skills) | Claude Code skills for product-management day-to-day |
 
 ---
 
