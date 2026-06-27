@@ -1,0 +1,14 @@
+{
+  "name": "brand-and-copy",
+  "owner": {
+    "name": "Ohana Taís"
+  },
+  "plugins": [
+    {
+      "name": "brand-and-copy",
+      "source": "./",
+      "description": "Brand identity, tone of voice, and product copy skills for solo builders.",
+      "version": "0.1.0"
+    }
+  ]
+}

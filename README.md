@@ -58,9 +58,9 @@ Build them in that order. Copy written without a defined tone sounds like everyo
 
 **Claude Code skills** for each stage live directly in this repo — one folder per topic, each with its own `SKILL.md`, `references/`, and `README.md`. Install them in your project to use these frameworks directly inside Claude Code.
 
-- [`brand-identity`](brand-identity) — create a visual + verbal identity without a designer, derived from what the brand stands for
-- [`tone-of-voice`](tone-of-voice) — define how the product talks, and keep it sounding like itself across every surface
-- [`product-copy`](product-copy) — write the words that convert: landing page, onboarding, microcopy
+- [`brand-identity`](skills/brand-identity) — create a visual + verbal identity without a designer, derived from what the brand stands for
+- [`tone-of-voice`](skills/tone-of-voice) — define how the product talks, and keep it sounding like itself across every surface
+- [`product-copy`](skills/product-copy) — write the words that convert: landing page, onboarding, microcopy
 
 A PT-BR introductory guide that walks through all three, module by module, lives in [`GUIA-BRAND-AND-COPY.md`](GUIA-BRAND-AND-COPY.md).
 
@@ -70,9 +70,9 @@ A PT-BR introductory guide that walks through all three, module by module, lives
 
 | Content | Status |
 |---|---|
-| Brand identity | ✅ Skill available in [`brand-identity`](brand-identity) |
-| Tone of voice | ✅ Skill available in [`tone-of-voice`](tone-of-voice) |
-| Product copy | ✅ Skill available in [`product-copy`](product-copy) |
+| Brand identity | ✅ Skill available in [`brand-identity`](skills/brand-identity) |
+| Tone of voice | ✅ Skill available in [`tone-of-voice`](skills/tone-of-voice) |
+| Product copy | ✅ Skill available in [`product-copy`](skills/product-copy) |
 
 ---
 
