@@ -81,7 +81,7 @@ A PT-BR introductory guide that walks through all three, module by module, lives
 | Repo | Focus |
 |---|---|
 | [build-from-zero](https://github.com/ohanatais/build-from-zero) | End-to-end hub |
-| [product-thinking](https://github.com/ohanatais/product-thinking) | Market research, validation, personas, PRD |
+| [product-discovery](https://github.com/ohanatais/product-discovery) | Market research, validation, personas, PRD |
 | **brand-and-copy** | You are here |
 | [build-with-claude](https://github.com/ohanatais/build-with-claude) | Technical guide for non-technical builders |
 | [go-to-market](https://github.com/ohanatais/go-to-market) | Launch strategy, first users |

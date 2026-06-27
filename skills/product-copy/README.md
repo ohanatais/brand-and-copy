@@ -19,7 +19,7 @@ The skill is **universal by design**: the same method writes a calm, technical p
 ## What it inherits
 
 Copy is the last layer, strongest when it stands on:
-- **Positioning / personas** ([`/positioning`](https://github.com/ohanatais/product-thinking)) — the message: who it's for, what's different
+- **Positioning / personas** ([`/positioning`](https://github.com/ohanatais/product-discovery)) — the message: who it's for, what's different
 - **Voice** ([`tone-of-voice`](../tone-of-voice)) — how it should sound
 
 It can derive working versions if those are missing, but it'll name the gap — copy over an undefined message converts worse.

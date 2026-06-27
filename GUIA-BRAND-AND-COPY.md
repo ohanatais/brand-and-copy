@@ -15,7 +15,7 @@ As palavras que você usa, as cores que escolhe e o tom que fala não são enfei
 
 Este guia cobre a camada entre "eu sei o que estou construindo" e "estou pronto pra escrever código". É o que faz o seu produto *parecer alguma coisa*, não só *fazer alguma coisa*.
 
-Vem depois do [product-thinking](https://github.com/ohanatais/product-thinking) (você já sabe pra quem é e o que te diferencia) e antes do [build-with-claude](https://github.com/ohanatais/build-with-claude) (a hora de construir).
+Vem depois do [product-discovery](https://github.com/ohanatais/product-discovery) (você já sabe pra quem é e o que te diferencia) e antes do [build-with-claude](https://github.com/ohanatais/build-with-claude) (a hora de construir).
 
 ---
 
@@ -209,7 +209,7 @@ O que vem depois deste repositório:
 
 E, se você ainda não passou por ele:
 
-- **[product-thinking](https://github.com/ohanatais/product-thinking)** — pesquisa de mercado, validação, personas, posicionamento, PRD (a camada que vem antes desta)
+- **[product-discovery](https://github.com/ohanatais/product-discovery)** — pesquisa de mercado, validação, personas, posicionamento, PRD (a camada que vem antes desta)
 
 ---
 
