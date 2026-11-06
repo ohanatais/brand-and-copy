@@ -81,12 +81,11 @@ An introductory guide that walks through all three, module by module, lives in [
 | Repo | Focus |
 |---|---|
 | [build-from-zero](https://github.com/ohanatais/build-from-zero) | End-to-end hub |
-| [product-discovery](https://github.com/ohanatais/product-discovery) | Market research, validation, personas, PRD |
+| [product-discovery](https://github.com/ohanatais/product-discovery) | Opportunity mapping, market research, validation, personas, positioning, PRD |
 | **brand-and-copy** | You are here |
 | [build-with-claude](https://github.com/ohanatais/build-with-claude) | Technical guide for non-technical builders |
 | [go-to-market](https://github.com/ohanatais/go-to-market) | Launch strategy, first users |
-| [pm-skills](https://github.com/ohanatais/pm-skills) | Claude Code skills for product-management day-to-day |
 
 ---
 
-Made by [Ohana Taís](https://github.com/ohanatais) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-ohana-taís-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ohana-taís)
+Made by [Ohana Taís](https://github.com/ohanatais) · [![LinkedIn](https://img.shields.io/badge/LinkedIn-ohanatais-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ohana-taís)
