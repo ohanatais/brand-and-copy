@@ -62,7 +62,7 @@ Build them in that order. Copy written without a defined tone sounds like everyo
 - [`tone-of-voice`](skills/tone-of-voice) — define how the product talks, and keep it sounding like itself across every surface
 - [`product-copy`](skills/product-copy) — write the words that convert: landing page, onboarding, microcopy
 
-A PT-BR introductory guide that walks through all three, module by module, lives in [`GUIA-BRAND-AND-COPY.md`](GUIA-BRAND-AND-COPY.md).
+An introductory guide that walks through all three, module by module, lives in [`GUIDE-BRAND-AND-COPY.md`](GUIDE-BRAND-AND-COPY.md).
 
 ---
 
@@ -85,7 +85,7 @@ A PT-BR introductory guide that walks through all three, module by module, lives
 | **brand-and-copy** | You are here |
 | [build-with-claude](https://github.com/ohanatais/build-with-claude) | Technical guide for non-technical builders |
 | [go-to-market](https://github.com/ohanatais/go-to-market) | Launch strategy, first users |
-| [pm-skills](https://github.com/ohanatais/pm-skills) | Claude Code skills for product-management day-to-day · PT-BR |
+| [pm-skills](https://github.com/ohanatais/pm-skills) | Claude Code skills for product-management day-to-day |
 
 ---
 
